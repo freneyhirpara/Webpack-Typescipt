@@ -1,0 +1,13 @@
+{
+  "header": "Expense Tracker",
+  "balance": "Your Balance",
+  "income": "Income",
+  "expense": "Expense",
+  "history": "History",
+  "emptyList": "No Transactions",
+  "AddTransaction": "Add new transaction",
+  "inputTitle": "Title",
+  "inputAmount": "Amount",
+  "errorRequired": "Text and Amount is required",
+  "errorPositiveAmount": "Amount must be a positive value"
+}

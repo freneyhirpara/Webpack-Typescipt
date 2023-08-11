@@ -1,0 +1,28 @@
+.container {
+  margin: 0;
+  width: 350px;
+  min-width: 30vw;
+  max-width: 95vw;
+  padding: 15px 23px;
+  background-color: white;
+  border-radius: 5px;
+  overflow-x: hidden;
+  position: relative;
+}
+
+.select-dropdown {
+  position: absolute;
+  left: 73%;
+  top: 3.5%;
+}
+.select-dropdown > select {
+  padding: 5px;
+  border-radius: 4px;
+  border: 1px rgb(168, 167, 167) solid;
+  background-color: #fff;
+}
+.select-dropdown select:active,
+.select-dropdown select:focus {
+  outline: none;
+  box-shadow: none;
+}

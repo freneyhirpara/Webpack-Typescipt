@@ -1,0 +1,5 @@
+export const ADD_TRANSACTION = 'ADD_TRANSACTION';
+export const DELETE_TRANSACTION = 'DELETE_TRANSACTION';
+export const SET_ERROR = 'SET_ERROR';
+export const RESET_ERROR = 'RESET_ERROR';
+export const REFRESH_STATE = 'REFRESH_STATE';

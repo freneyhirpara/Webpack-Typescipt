@@ -1,0 +1,13 @@
+{
+  "header": "Suivi des dépenses",
+  "balance": "Votre solde",
+  "income": "Revenu",
+  "expense": "Frais",
+  "history": "Histoire",
+  "emptyList": "Aucune transaction",
+  "AddTransaction": "Ajouter une nouvelle transaction",
+  "inputTitle": "Titre",
+  "inputAmount": "Montant",
+  "errorRequired": "Le texte et le montant sont obligatoires",
+  "errorPositiveAmount": "Le montant doit être une valeur positive"
+}
